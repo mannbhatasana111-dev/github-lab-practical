@@ -1,0 +1,3 @@
+GitHub enables multiple users to collaborate on the same project.
+Collaborators can contribute using branches and pull requests.
+Issues help track bugs and feature requests.
